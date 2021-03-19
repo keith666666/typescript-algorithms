@@ -1,7 +1,7 @@
 {
   "name": "typescript-algorithms",
   "version": "0.1.0",
-  "description": "algorithms and data structures inmplemented in typescript",
+  "description": "algorithms and data structures implemented in typescript",
   "main": null,
   "scripts": {
     "lint": "ts-standard",
