@@ -1,0 +1,25 @@
+{
+  "name": "typescript-algorithms",
+  "version": "0.1.0",
+  "description": "algorithms and data structures inmplemented in typescript",
+  "main": null,
+  "scripts": {
+    "lint": "ts-standard",
+    "lint:fix": "ts-standard --fix"
+  },
+  "keywords": [
+    "typescript",
+    "algorithm"
+  ],
+  "author": "keith",
+  "license": "MIT",
+  "dependencies": {
+    "ts-standard": "^10.0.0",
+    "typescript": "^4.2.3"
+  },
+  "ts-standard": {
+    "ignore": [
+      "node_modules"
+    ]
+  }
+}
